@@ -1,0 +1,20 @@
+.input{
+    width: 50%;
+    padding-top: 30%;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.input input{
+    background: transparent;
+    border: solid 2px #76319e;
+    border-radius: 50px;
+    outline: none;
+    color: white;
+    margin: 10%;
+    padding: 5%;
+    width: 50%;
+    font-size: 20px;
+    text-align: center;
+}

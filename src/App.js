@@ -1,10 +1,9 @@
 import './App.css';
+import BoxCalculator from './Componentes/BoxCalculator';
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <BoxCalculator />
   );
 }
 
